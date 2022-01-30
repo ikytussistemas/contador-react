@@ -4,5 +4,5 @@
 ## Projeto para estudo do uso de Hooks e componetização
   
 <p align="center">
-  <img src="/tela.png" width="500" title="Contador">
+  <img src="/tela.gif" width="500" title="Contador">
 </p>
